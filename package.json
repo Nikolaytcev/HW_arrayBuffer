@@ -8,7 +8,7 @@
       "src/js/bufferConverter.js"
     ]
   },
-  "description": "[![Build status](https://ci.appveyor.com/api/projects/status/dgo8at6vk2odxrqc?svg=true)](https://ci.appveyor.com/project/Nikolaytcev/hw-classes-js)",
+  "description": "[![Build status](https://ci.appveyor.com/api/projects/status/dgo8at6vk2odxrqc?svg=true)](https://ci.appveyor.com/project/Nikolaytcev/hw-arraybuffer)",
   "main": "src/index.js",
   "scripts": {
     "start": "webpack serve --mode development",
@@ -19,14 +19,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Nikolaytcev/HW_classes-js.git"
+    "url": "git+https://github.com/Nikolaytcev/HW_arrayBuffer.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Nikolaytcev/HW_classes-js/issues"
+    "url": "https://github.com/Nikolaytcev/HW_arrayBuffer/issues"
   },
-  "homepage": "https://github.com/Nikolaytcev/HW_classes-js#readme",
+  "homepage": "https://github.com/Nikolaytcev/HW_arrayBuffer#readme",
   "devDependencies": {
     "@babel/cli": "^7.23.0",
     "@babel/core": "^7.23.2",
