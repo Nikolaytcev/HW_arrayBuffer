@@ -1,4 +1,3 @@
-import { Character } from "../character";
 import { Magician } from "../magician";
 import { Daemon } from "../daemon"; 
 import { ArrayBufferConverter } from "../bufferConverter";
